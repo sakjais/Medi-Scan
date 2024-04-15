@@ -1,0 +1,6 @@
+9DC08B bg, text black, second bg white
+streamlit run "C:\Users\<name>\Desktop\Multiple Disease Prediction System\multiple disease pred.py"
+
+
+
+python -m streamlit run main.py
